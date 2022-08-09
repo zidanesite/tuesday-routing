@@ -11,3 +11,21 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.TopNav{
+  background-color: #000;
+  height: 100px;
+}
+.nav-item , a{
+  color: gold !important;
+  text-decoration: none !important;
+}
+h1{
+  text-align: center;
+  margin-top: 50px !important;
+}
+p{
+  text-align: center;
+}
+.ContactD{
+  text-align: center;
+}
